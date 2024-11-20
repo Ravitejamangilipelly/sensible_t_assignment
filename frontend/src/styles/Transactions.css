@@ -1,0 +1,26 @@
+.transactions-container {
+  padding: 20px;
+}
+
+.user-id-input {
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.transactions-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.transaction-item {
+  margin: 10px 0;
+}
+
+.create-transaction-button {
+  margin-top: 20px;
+  padding: 10px 15px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}

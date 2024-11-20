@@ -1,0 +1,29 @@
+.create-transaction-container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.transaction-form input,
+.transaction-form select {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+
+.submit-button {
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 16px;
+  margin-top: 10px;
+}
+
+.submit-button:hover {
+  background-color: #45a049;
+}
